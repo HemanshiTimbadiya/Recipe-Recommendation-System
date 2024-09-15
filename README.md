@@ -5,9 +5,13 @@ The Recipe Recommendation System is a machine learning application designed to r
 Features:
 
 Recipe Recommendation: Predicts recipe instructions based on the names of recipes provided.
+
 Text Preprocessing: Cleans and normalizes text data for better performance.
+
 Model Training: Uses logistic regression to train a model on recipe data.
+
 Evaluation Metrics: Assesses model performance using classification metrics.
+
 Persistence: Saves and loads the trained model and vectorizer for future use.
 
 Technologies Used :
